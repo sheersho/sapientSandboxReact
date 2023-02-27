@@ -1,6 +1,7 @@
 # React Meals Food Delivery App by Sheersho
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![image](https://cloud.githubusercontent.com/assets/9053854/24495974/fbf2e0cc-1547-11e7-846c-25b5fac7f6b1.png)
 
 ## Available Scripts
 
